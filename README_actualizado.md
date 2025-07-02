@@ -90,6 +90,68 @@ Cada sección incluye KPIs dinámicos, filtros por periodo, moneda y tipo de an�
 
 ---
 
+
+---
+
+## 📊 Insights y Hallazgos de Negocio
+
+A partir del análisis exploratorio con Qlik Sense, se destacan los siguientes hallazgos:
+
+### 1. Evolución de Ventas y Márgenes
+
+- Las ventas muestran una caída del **-3,9 % en abril vs. marzo**, tras una tendencia creciente en Q1.
+- El **margen neto acumulado YTD es del 49 %**, con €544,8 M sobre €1,1 B en ventas.
+
+📌 *Recomendación:* reforzar campañas promocionales en mayo-junio para sostener el run-rate proyectado anual (>€3 B).
+
+---
+
+### 2. Desempeño por País
+
+| País      | Ventas Abr-24 | Margen Neto | % Margen |
+|-----------|----------------|-------------|----------|
+| Alemania  | € 28,4 M       | € 10,7 M    | 37 %     |
+| Armenia   | €  8,4 M       | €  4,3 M    | 51 %     |
+| Australia | € 25,3 M       | € 12,9 M    | 51 %     |
+
+- Algunos mercados con menor volumen presentan **márgenes significativamente mayores**.
+- **Alemania** y otros países de alto volumen tienen margen inferior al promedio.
+
+📌 *Recomendación:* replicar tácticas comerciales de países de alto margen en mercados prioritarios.
+
+---
+
+### 3. Análisis por Productos
+
+- Los productos más vendidos en abril fueron:
+  - 📱 Móviles: 667k unidades
+  - 💻 PCs/Laptops: 433k unidades
+  - 🔌 Electrodomésticos: 416k unidades
+
+- Las **Cámaras y Videograbadoras** se destacan por su **alto margen neto**, a pesar del bajo volumen.
+
+📌 *Recomendación:* promocionar bundles de alto margen e identificar productos con baja rentabilidad para descontinuación.
+
+---
+
+### 4. Perfil de Clientes
+
+- Más del **90 % de ventas proviene del segmento corporativo**.
+- El análisis RFM muestra potencial para reactivar clientes inactivos (“Hibernating”).
+
+📌 *Recomendación:* lanzar campañas de recuperación con ofertas personalizadas y explorar mayor presencia B2C.
+
+---
+
+### 5. Prioridades para el negocio (Q2 2024)
+
+1. Restablecer el crecimiento mensual de ventas.
+2. Optimizar el mix de producto hacia categorías de mayor rentabilidad.
+3. Replicar prácticas exitosas de mercados de alto margen.
+4. Activar campañas segmentadas por perfil de cliente.
+
+---
+
 ## 👥 Público Objetivo
 
 - Dirección Comercial
